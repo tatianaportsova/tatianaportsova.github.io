@@ -20,8 +20,8 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About : "aboutme"
+  My links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
@@ -69,8 +69,8 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  #facebook: deanattali
+  #github: daattali
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MyWebsiteExample.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
