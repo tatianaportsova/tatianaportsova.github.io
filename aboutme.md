@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Tatiana Portsova. I grew up in Russia, in a small town in Siberia. Since 2012, I've been living in the USA.
+I have an interest in drawing, you're more than welcome to click on the link to my instagram account and check out some of my works.
+I'm currently studying Data Science at Lambda school.
 
 What else do you need?
 
