@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: DS12 student,Lambda School
 ---
 
 My name is Tatiana Portsova. I grew up in Russia, in a small town in Siberia. Since 2012, I've been living in the USA.
 I have an interest in drawing, you're more than welcome to click on the link to my instagram account and check out some of my works.
-I'm currently studying Data Science at Lambda school.
+I'm currently studying Data Science at Lambda school. That's a facinating field, and I'm looking forward to learning more. 
+I'm interested in doing an analitical job and working for companies that provide inisghts on data.
+
 
 What else do you need?
 
