@@ -21,8 +21,9 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About : "About"
-  Contacts:
+  Links:
     - e-mail: "tportsova@gmail.com"
+    - linkedin: "https://www.linkedin.com/in/tatiana-portsova-478b041a0/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://deanattali.com"
 
@@ -69,6 +70,7 @@ author:
 social-network-links:
   rss: true
   email: "tportsova@gmail.com"
+  linkedin: "https://www.linkedin.com/in/tatiana-portsova-478b041a0/"
   #twitter: daattali
   #facebook: deanattali
   #github: daattali
@@ -90,11 +92,11 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsiteExample.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MyPortfolio.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -102,7 +104,7 @@ url-pretty: "MyWebsiteExample.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-156881940-1"
 
 # Google Tag Manager ID
 #gtm: ""
