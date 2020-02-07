@@ -1,0 +1,32 @@
+---
+layout: post
+title: Life Expectancy and Education
+subtitle: In case you ever wondered, if there is any correlation between life expectancy and the level of education. I looked at some data, and I can tell that there is a positive correlation. At least, that is true for the USA.
+tags: [longevity, education, data science]
+---
+
+I was always curious if there is a connection between education and life expectancy. There are a lot of articles on the web that talk about how the importance of keeping not only our bodies active but our brains, too. So I decided to get some data and do research. It is nice to learn more about the factors that can provide a positive effect on longevity. Long quality life, sounds good, right?
+
+The bars in the chart above show the distribution of the percentage of the people who got their bachelor’s degree and advanced degree by state. We can see that the lengths of the bars for BA and the AD are correlated. Not a big surprise there. I assume, people probably don’t go for a Ph.D. right after high school, there are some intermediate steps that need to be taken.
+According to the 2018 data, the top five states with the highest percentage of population with a Bachelor’s degree are:
+Massachusetts, (42.1% | 42 years)
+Colorado, (39.4%)
+Maryland, (39.0%)
+Connecticut, (38.4%)
+New Jersey, (38.1%)
+And the bottom five states:
+West Virginia, (19.9%)
+California, (21.0%)
+Mississippi, (21.3%)
+Texas, (21.5%)
+Arkansas, (22.0%)
+Next, I added longevity to the picture…
+
+
+If we pay attention to the color of the dots, we would see that there is a tendency for life expectancy to increase the more educated people are. Vivere et discere.
+Here you can see the life expectancy and the level of higher education distributed among the states.
+
+The correlation is clear, but does it mean causation? Certainly, not. Yet, I cannot rule out the possibility that given a regular ‘workout’, our brains somehow pay us back in making it possible for us to live longer.
+
+There are quite a few other factors that need to be researched. Maybe it has to do with the income? Financially stable and successful people tend to take better care of their health, also they are the ones who tend to pursue higher education.
+This is one clue to the complex question of what factors ensure a longer life span.
