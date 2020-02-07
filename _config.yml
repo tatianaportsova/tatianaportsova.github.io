@@ -24,7 +24,7 @@ navbar-links:
   Links:
     - e-mail: "tportsova@gmail.com"
     - linkedin: "https://www.linkedin.com/in/tatiana-portsova-478b041a0/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - medium: "https://medium.com/@tportsova"
     - Github: "https://github.com/tatianaportsova/tatianaportsova.github.io"
   #Author's home: "http://deanattali.com"
 
@@ -74,7 +74,7 @@ social-network-links:
   linkedin: "tatiana-portsova"
   github: "tatianaportsova"
   instagram: "tt_sova.art"
-  medium: "tportsova"
+  medium: "@tportsova"
   #twitter: daattali
   #facebook: deanattali
   
